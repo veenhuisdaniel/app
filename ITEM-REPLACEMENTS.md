@@ -1,5 +1,7 @@
 # Item replacement suggestions
 
+For the detailed German user, administration and developer documentation, see [Food Order Assistant documentation](README.md). This file remains the compact English technical reference.
+
 ## User workflow
 
 1. Open a sales order and choose **Find Item Replacements**. Pending header changes are saved before analysis.
