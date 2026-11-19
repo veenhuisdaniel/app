@@ -13,6 +13,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales &amp; Receivables Setup Ext - Field AI Prompt - Property Caption</note>
         </trans-unit>
+        <trans-unit id="EnumExtension 2994571540 - EnumValue 1538433693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1589378883">
+          <source>Get Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension M365 AI Prompt Tool Ext - EnumValue GetItem - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2994571540 - EnumValue 4085863405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1589378883">
+          <source>Get Sales Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension M365 AI Prompt Tool Ext - EnumValue GetSalesLines - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>

@@ -1,12 +1,12 @@
-codeunit 52002 "M365 Return Order Processes" implements "AOAI Function"
+codeunit 52003 "M365 Get Item" implements "AOAI Function"
 {
-
     InherentEntitlements = X;
     InherentPermissions = X;
     Access = Internal;
 
     var
         FunctionNameLbl: Label 'getItem', Locked = true, Comment = 'The name of the ai function.';
+        ItemNotFoundLbl: Label 'Item %1 does not exist.', Locked = true, Comment = '%1 = Item No.';
 
     procedure GetPrompt(): JsonObject
     var
@@ -43,7 +43,10 @@ codeunit 52002 "M365 Return Order Processes" implements "AOAI Function"
         tempRecRef: RecordRef;
         resultObject: JsonObject;
     begin
-        item.Get(itemNo);
+        if not item.Get(itemNo) then begin
+            resultObject.Add('error', StrSubstNo(ItemNotFoundLbl, itemNo));
+            exit(resultObject);
+        end;
 
         tempRecRef.GetTable(item);
         jsonHelper.MapRecordToObject(tempRecRef, resultObject);
