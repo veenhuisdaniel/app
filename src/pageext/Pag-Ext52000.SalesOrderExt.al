@@ -5,16 +5,30 @@ pageextension 52000 "Sales Order Ext" extends "Sales Order"
 
         addlast(Prompting)
         {
-            action("KIAgentCall")
+            action("Find Item Replacements")
             {
                 ApplicationArea = All;
-                Caption = 'KI Agent Call', locked = true;
+                Caption = 'Find Item Replacements';
                 Image = Sparkle;
+                ToolTip = 'Find available replacements for item lines with insufficient stock, let AI assess them, and choose whether to replace an original item.';
 
                 trigger OnAction()
                 var
+                    TempReplacementContext: Record "MCON Item Repl. Result" temporary;
+                    Workflow: Codeunit "MCON Item Repl. Workflow";
+                    NoShortageLbl: Label 'No item lines with insufficient current inventory were found.';
                 begin
-                    CallKIAgent();
+                    CurrPage.SaveRecord();
+                    Commit();
+                    if not Workflow.Generate(Rec."No.", TempReplacementContext) then begin
+                        Message(NoShortageLbl);
+                        exit;
+                    end;
+                    TempReplacementContext.FindFirst();
+                    // AI processing can start a write transaction; the modal page must open outside it.
+                    Commit();
+                    Page.RunModal(Page::"MCON Item Repl. Proposals", TempReplacementContext);
+                    CurrPage.Update(false);
                 end;
             }
         }
@@ -41,4 +55,5 @@ pageextension 52000 "Sales Order Ext" extends "Sales Order"
 
         Message('External Answer: %1\nInternal Answer: %2', returnExternalAnswer, returnInternalAnswer);
     end;
+
 }

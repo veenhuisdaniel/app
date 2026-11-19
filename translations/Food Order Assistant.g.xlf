@@ -3,10 +3,545 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Food Order Assistant">
     <body>
       <group id="body">
+        <trans-unit id="Table 2674019746 - Field 2279323338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 508884519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Applied - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2983005986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Inventory Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Current Inventory Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 607593867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluated Candidate Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Evaluated Candidate Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2200046723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indentation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Indentation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 1335269213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Original</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Is Original - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 718902846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Original Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 37744997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Original Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 537631876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Original Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 638246201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Sales Line SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Original Sales Line SystemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 3656306757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proposed Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Proposed Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 1590123186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proposed Quantity Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Proposed Quantity Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 3380760239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recommended</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Recommended - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 424339688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replacement Inv. Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Replacement Inv. Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2389556231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replacement Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Replacement Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2349501040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replacement Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Replacement Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 617444201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replacement Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Replacement Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 3739782014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Required Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Required Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2023291729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Required Quantity Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Required Quantity Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 3535442407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Result Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Sales Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 522692838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Diagnostics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Search Diagnostics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 1673615000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selection Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Selection Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 565789063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Similarity Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Similarity Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 3247336395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Modified At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Source Modified At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 376626676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validation Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Validation Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2674019746 - Field 3535457361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validation Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCON Item Repl. Result - Field Validation Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2757674179 - NamedType 3042597744" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The originalSalesLineSystemId argument must be a GUID.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Get Replacement Cand. - NamedType InvalidSystemIdErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2757674179 - NamedType 1273256342" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A required argument is missing: %1.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Argument name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Get Replacement Cand. - NamedType MissingArgumentErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 152962058 - NamedType 1273256342" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The required salesOrderNo argument is missing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Get Unavailable Lines - NamedType MissingArgumentErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1520614939 - NamedType 2301378337" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page number must be positive and page size must be between 1 and 100.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Cand. Mgt. - NamedType InvalidPageErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1520614939 - NamedType 2184892397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Item number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Cand. Mgt. - NamedType ItemNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1520614939 - NamedType 1111153700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The sales order item line %1 does not exist or is not eligible.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Sales line SystemId</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Cand. Mgt. - NamedType SalesLineNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1520614939 - NamedType 1102782164" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other items in category "%1": %2; same sales unit "%3": %4; unblocked inventory items: %5; valid line unit "%6": %7; sufficient stock at location "%8": %9. Required original base quantity: %10.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = category, %2 = category count, %3 = sales unit, %4 = unit count, %5 = active inventory count, %6 = line unit, %7 = compatible unit count, %8 = location, %9 = eligible count, %10 = required base quantity</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Cand. Mgt. - NamedType SearchDiagnosticsLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3819714644 - NamedType 2184892397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Item number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Context Mgt. - NamedType ItemNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3819714644 - NamedType 1531178868" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales order %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Sales order number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Context Mgt. - NamedType OrderNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 3245750552" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The agent reported an error: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = error returned in the JSON response</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType AgentErrorErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 4166764677" size-unit="char" translate="yes" xml:space="preserve">
+          <source>More than one recommendation was returned for the same sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType DuplicateRecommendationErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 250751926" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The recommendation contains an unsupported action or reasonCode.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidActionErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 1408987463" size-unit="char" translate="yes" xml:space="preserve">
+          <source>inventoryCalculation must be CURRENT_INVENTORY.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidCalculationErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 2218744470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>evaluatedCandidateCount cannot be negative.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidCandidateCountErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 3895367688" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The agent response is not valid JSON.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidJsonErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 3224358591" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A recommendation is malformed or refers to an invalid sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidRecommendationErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 3417359134" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The replacement item is not a current eligible candidate or the recommendation quantities are stale.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidReplacementErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 232778209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The agent response is invalid: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = validation detail</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidResponseErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 1521412279" size-unit="char" translate="yes" xml:space="preserve">
+          <source>schemaVersion must be 1.0.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidSchemaErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 2792154040" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A replacement recommendation must have a similarityScore from 0.75 through 1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType InvalidScoreErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 3449882362" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The response contains salesOrderNo "%1", but the requested order number is "%2".</source>
+          <note from="Developer" annotates="general" priority="2">%1 = returned sales order number, %2 = expected sales order number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType MismatchedOrderErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 3304850081" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The response must contain salesOrderNo with the requested order number %1.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = expected sales order number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType MissingOrderErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 2883321173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>recommendations must be a JSON array.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType MissingRecommendationsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2002429122 - NamedType 1531178868" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales order %1 no longer exists.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = expected sales order number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Result Mgt. - NamedType OrderNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 4162493851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This sales line has item tracking, reservations or warehouse documents. Remove those assignments manually before replacing the item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType BoundLineErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 2156016182" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected item is no longer an eligible replacement. Run the analysis again.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType CandidateUnavailableErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 3372465083" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The sales line has changed since the analysis. Run the analysis again.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType ChangedLineErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 610297252" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use item %2 instead of %1 for the outstanding quantity %4 on sales line %3 at location %5? If partially shipped, the shipped quantity remains on the original line and a new line is created for the remaining quantity. Business Central recalculates item data, prices and discounts.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = original item, %2 = replacement item, %3 = line number, %4 = outstanding quantity, %5 = location</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType ConfirmReplaceQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 1736108776" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected AI Prompt must contain a user prompt and a system role description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType EmptyPromptErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 2501070527" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AI interaction could not be initialized.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType InitializeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 4218969853" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales line %1 does not have a supported positive outstanding quantity or its shipped and invoiced quantities are inconsistent.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = sales line number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType InvalidPostingStateErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 1361162878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected exactly one score from 0 through 1 and a nonempty reason for each supplied candidate. Unknown or duplicate items are not allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType InvalidRankingErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 4153158126" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AI did not assess every supplied candidate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType MissingScoresErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 1256205835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select an assessed replacement item that has not already been applied.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType NoCandidateErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 3044016551" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No available replacement item matches the category and sales unit of measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType NoCandidatesLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 1349015099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A new sales line cannot be appended to sales order %1 because the line number range is exhausted.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = sales order number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType NoLineNumberErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 2437040252" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No sufficiently similar replacement was found (minimum score 0.75).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType NoMatchLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 3950098385" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finding and assessing replacement items.\\Sales line: #1##########</source>
+          <note from="Developer" annotates="general" priority="2">#1 = sales line number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType ProgressLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 1900054845" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AI assessment for sales line %1 is invalid: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = line number, %2 = validation detail</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType RankingErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694257600 - NamedType 1404742739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AI platform did not return a response.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCON Item Repl. Workflow - NamedType SendErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Replacement Suggestions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - NamedType 398889447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replacement candidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - NamedType CandidateRowLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - NamedType 2377828003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original sales lines are bold. Replacement candidates are shown as separate indented rows. Select a replacement row to use it; the original item is never a replacement candidate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - NamedType InstructionsLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - NamedType 3702163247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales line %1, original item %2: %3</source>
+          <note from="Developer" annotates="general" priority="2">%1 = line number, %2 = original item number, %3 = no-match reason</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - NamedType LineResultLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - NamedType 2839988620" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NO SUITABLE REPLACEMENT for one or more sales lines:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - NamedType MissingReplacementLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - NamedType 693908227" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original - insufficient stock</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - NamedType OriginalRowLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - NamedType 407793455" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Best AI recommendation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - NamedType RecommendedRowLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 1746372166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2442888355 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows missing replacements and the search filters above the list. Only indented rows are replacement candidates.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control AnalysisMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 508884519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that a replacement has already been applied to this sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Applied - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 508884519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replacement Applied</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Applied - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the original item or the replacement candidate on this row.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2105307182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current inventory of the item on this row in base units at the original location when analysed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Inventory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2105307182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory (Base)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 332802016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bold parent rows show original items. Indented rows show different replacement items.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control ItemNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 39415292 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location used for the inventory check.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control LocationCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 39415292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control LocationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 934962082 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the original sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control OriginalLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 934962082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control OriginalLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 3369789712 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason for the AI score.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Reason - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 3369789712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AI Assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 503384830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the outstanding quantity in the sales line unit.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control RequiredQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 503384830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Required Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control RequiredQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2494414190 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Distinguishes original sales lines from replacement candidates and the best AI recommendation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control RowKind - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2494414190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Row Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control RowKind - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2219487564 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the AI similarity score. A recommendation needs at least 0.75.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 2219487564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Similarity (0-1)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 3955711665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sales line unit of measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control UnitOfMeasure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Control 3955711665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Control UnitOfMeasure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Action 415694215 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply the replacement after confirmation. For partially shipped lines, retain the shipped quantity and create a new line for the outstanding quantity. Standard validation recalculates item data and prices.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Action UseReplacement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1383393188 - Action 415694215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Selected Replacement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCON Item Repl. Proposals - Action UseReplacement - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2760473785 - Control 862523440 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
           <source>Select an AI Prompt, which is used for AI-driven processes in the system.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales &amp; Receivables Setup Ext - Control AI Prompt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 26865999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Find available replacements for item lines with insufficient stock, let AI assess them, and choose whether to replace an original item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Find Item Replacements - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 26865999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Find Item Replacements</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Find Item Replacements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 26865999 - Method 1377591017 - NamedType 41165430" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1633892545">
+          <source>No item lines with insufficient current inventory were found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Find Item Replacements - Method OnAction - NamedType NoShortageLbl</note>
         </trans-unit>
         <trans-unit id="TableExtension 2760473785 - Field 862523440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
           <source>AI Prompt</source>
@@ -18,10 +553,25 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">EnumExtension M365 AI Prompt Tool Ext - EnumValue GetItem - Property Caption</note>
         </trans-unit>
+        <trans-unit id="EnumExtension 2994571540 - EnumValue 3285998389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1589378883">
+          <source>Get Replacement Item Candidates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension M365 AI Prompt Tool Ext - EnumValue GetReplacementItemCandidates - Property Caption</note>
+        </trans-unit>
         <trans-unit id="EnumExtension 2994571540 - EnumValue 4085863405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1589378883">
           <source>Get Sales Lines</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">EnumExtension M365 AI Prompt Tool Ext - EnumValue GetSalesLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2994571540 - EnumValue 878677027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1589378883">
+          <source>Get Unavailable Sales Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension M365 AI Prompt Tool Ext - EnumValue GetUnavailableSalesLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 852993859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCON Item Replacement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet MCON ITEM REPL - Property Caption</note>
         </trans-unit>
       </group>
     </body>
